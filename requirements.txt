@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-folium
-streamlit-folium
-osmnx
-geopandas
-scikit-learn
-shapely
